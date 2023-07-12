@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/misango/.gradle/caches/transforms-3/57d735d752756fea53f7dd399ca1cd1e/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /home/misango/.gradle/caches/transforms-3/49c0593b79c8e4d358de9ae7cc668638/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/misango/.gradle/caches/transforms-3/efd423f49301316fd962afd19fdac95c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/misango/.gradle/caches/transforms-3/4958bd3c264d095cacfdc0ebcc9a1419/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/misango/.gradle/caches/transforms-3/0721cc9accd2b4facd7f1fe3b7b0e75e/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/misango/.gradle/caches/transforms-3/2a5dd910f3eb08a3f8352f83cb661232/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /home/misango/.gradle/caches/transforms-3/0d80aebbb4bfcb4e6acd3cdba292f9c1/transformed/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/misango/.gradle/caches/transforms-3/08c59a48304192eba575e15767a703de/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/misango/.gradle/caches/transforms-3/4633a95eb517527236e21a990395f223/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/misango/.gradle/caches/transforms-3/0e985bba5c9458debc12c21da9ef5661/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/misango/.gradle/caches/transforms-3/d7c7fa7e7a0af52f3e26eea9e64628de/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/misango/.gradle/caches/transforms-3/40763943af9217c3fdc7f78efe968d64/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/misango/.gradle/caches/transforms-3/b7b30058b59571b9f5b414bfd23852ec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/misango/.gradle/caches/transforms-3/bd5644dd5459dc6d74e2579648250e30/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/misango/.gradle/caches/transforms-3/bd14e5efd9f85e081b138816518962b9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/misango/.gradle/caches/transforms-3/78092b2e39287249bed56d1c2d21de8b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/misango/.gradle/caches/transforms-3/673b892108c0265e58f551e03d286f80/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/misango/.gradle/caches/transforms-3/4e2b29f32d1dd4c7de3e7b79a85eb261/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/misango/.gradle/caches/transforms-3/5219f113c060f597dacfe200165f9b6e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/misango/.gradle/caches/transforms-3/ea046b7739c3dbbde357c7021d4b690c/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/misango/.gradle/caches/transforms-3/d0a2ff64912a5ffb48671d787efdbd93/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/misango/.gradle/caches/transforms-3/7f54aef749300f3bb19425f021e8d9af/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/misango/.gradle/caches/transforms-3/12da9aa2a9293f41682fee94fe0f36fc/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/misango/.gradle/caches/transforms-3/ae4336c21501704435694bdcaf243e41/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/misango/.gradle/caches/transforms-3/adf826741c98f838c23e388644a86324/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/misango/.gradle/caches/transforms-3/4f887f13800ba6a52d875be248795c8e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/misango/.gradle/caches/transforms-3/7aa7fc8d2fb3b1c28e45d4d6e5cc706a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/misango/.gradle/caches/transforms-3/bf3f7b22a8cb750e8fc2e9954cd30361/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/misango/.gradle/caches/transforms-3/78dea024007e67209fbb4a46dc65fe4d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/misango/.gradle/caches/transforms-3/75660cfece5dd320c2bd83cc9c3f2a70/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/misango/.gradle/caches/transforms-3/074233af334f9200f97c8b06d1c69cdd/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/misango/.gradle/caches/transforms-3/0f59aefaafca1cb83abcede6604c5d48/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/misango/.gradle/caches/transforms-3/96cc2cad7fae7c5fe1dd95868c0bc363/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/misango/.gradle/caches/transforms-3/3de8db5fef5563620296c421a6eaeef9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/misango/.gradle/caches/transforms-3/48adcd043377728a58b7f3e322e3bf0b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/misango/.gradle/caches/transforms-3/ffb2dbcea7dc9899f5100a8cbb372949/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:4:5-20:19
+MERGED from [com.google.android.material:material:1.4.0] /home/misango/.gradle/caches/transforms-3/49c0593b79c8e4d358de9ae7cc668638/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/misango/.gradle/caches/transforms-3/49c0593b79c8e4d358de9ae7cc668638/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/misango/.gradle/caches/transforms-3/efd423f49301316fd962afd19fdac95c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/misango/.gradle/caches/transforms-3/efd423f49301316fd962afd19fdac95c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /home/misango/.gradle/caches/transforms-3/ea046b7739c3dbbde357c7021d4b690c/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/misango/.gradle/caches/transforms-3/ea046b7739c3dbbde357c7021d4b690c/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/misango/.gradle/caches/transforms-3/7aa7fc8d2fb3b1c28e45d4d6e5cc706a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/misango/.gradle/caches/transforms-3/7aa7fc8d2fb3b1c28e45d4d6e5cc706a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/misango/.gradle/caches/transforms-3/ea046b7739c3dbbde357c7021d4b690c/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:10:9-48
+activity#com.example.diceroller.MainActivity
+ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:11:9-19:20
+	android:exported
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] /home/misango/.gradle/caches/transforms-3/57d735d752756fea53f7dd399ca1cd1e/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/misango/.gradle/caches/transforms-3/57d735d752756fea53f7dd399ca1cd1e/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /home/misango/.gradle/caches/transforms-3/49c0593b79c8e4d358de9ae7cc668638/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/misango/.gradle/caches/transforms-3/49c0593b79c8e4d358de9ae7cc668638/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/misango/.gradle/caches/transforms-3/efd423f49301316fd962afd19fdac95c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/misango/.gradle/caches/transforms-3/efd423f49301316fd962afd19fdac95c/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/misango/.gradle/caches/transforms-3/4958bd3c264d095cacfdc0ebcc9a1419/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/misango/.gradle/caches/transforms-3/4958bd3c264d095cacfdc0ebcc9a1419/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/misango/.gradle/caches/transforms-3/0721cc9accd2b4facd7f1fe3b7b0e75e/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/misango/.gradle/caches/transforms-3/0721cc9accd2b4facd7f1fe3b7b0e75e/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/misango/.gradle/caches/transforms-3/2a5dd910f3eb08a3f8352f83cb661232/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/misango/.gradle/caches/transforms-3/2a5dd910f3eb08a3f8352f83cb661232/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/misango/.gradle/caches/transforms-3/0d80aebbb4bfcb4e6acd3cdba292f9c1/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/misango/.gradle/caches/transforms-3/0d80aebbb4bfcb4e6acd3cdba292f9c1/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/misango/.gradle/caches/transforms-3/08c59a48304192eba575e15767a703de/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/misango/.gradle/caches/transforms-3/08c59a48304192eba575e15767a703de/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/misango/.gradle/caches/transforms-3/4633a95eb517527236e21a990395f223/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/misango/.gradle/caches/transforms-3/4633a95eb517527236e21a990395f223/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/misango/.gradle/caches/transforms-3/0e985bba5c9458debc12c21da9ef5661/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/misango/.gradle/caches/transforms-3/0e985bba5c9458debc12c21da9ef5661/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/misango/.gradle/caches/transforms-3/d7c7fa7e7a0af52f3e26eea9e64628de/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/misango/.gradle/caches/transforms-3/d7c7fa7e7a0af52f3e26eea9e64628de/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/misango/.gradle/caches/transforms-3/40763943af9217c3fdc7f78efe968d64/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/misango/.gradle/caches/transforms-3/40763943af9217c3fdc7f78efe968d64/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/misango/.gradle/caches/transforms-3/b7b30058b59571b9f5b414bfd23852ec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/misango/.gradle/caches/transforms-3/b7b30058b59571b9f5b414bfd23852ec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/misango/.gradle/caches/transforms-3/bd5644dd5459dc6d74e2579648250e30/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/misango/.gradle/caches/transforms-3/bd5644dd5459dc6d74e2579648250e30/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/misango/.gradle/caches/transforms-3/bd14e5efd9f85e081b138816518962b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/misango/.gradle/caches/transforms-3/bd14e5efd9f85e081b138816518962b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/misango/.gradle/caches/transforms-3/78092b2e39287249bed56d1c2d21de8b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/misango/.gradle/caches/transforms-3/78092b2e39287249bed56d1c2d21de8b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/misango/.gradle/caches/transforms-3/673b892108c0265e58f551e03d286f80/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/misango/.gradle/caches/transforms-3/673b892108c0265e58f551e03d286f80/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/misango/.gradle/caches/transforms-3/4e2b29f32d1dd4c7de3e7b79a85eb261/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/misango/.gradle/caches/transforms-3/4e2b29f32d1dd4c7de3e7b79a85eb261/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/misango/.gradle/caches/transforms-3/5219f113c060f597dacfe200165f9b6e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/misango/.gradle/caches/transforms-3/5219f113c060f597dacfe200165f9b6e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/misango/.gradle/caches/transforms-3/ea046b7739c3dbbde357c7021d4b690c/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/misango/.gradle/caches/transforms-3/ea046b7739c3dbbde357c7021d4b690c/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/misango/.gradle/caches/transforms-3/d0a2ff64912a5ffb48671d787efdbd93/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/misango/.gradle/caches/transforms-3/d0a2ff64912a5ffb48671d787efdbd93/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/misango/.gradle/caches/transforms-3/7f54aef749300f3bb19425f021e8d9af/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/misango/.gradle/caches/transforms-3/7f54aef749300f3bb19425f021e8d9af/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/misango/.gradle/caches/transforms-3/12da9aa2a9293f41682fee94fe0f36fc/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/misango/.gradle/caches/transforms-3/12da9aa2a9293f41682fee94fe0f36fc/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/misango/.gradle/caches/transforms-3/ae4336c21501704435694bdcaf243e41/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/misango/.gradle/caches/transforms-3/ae4336c21501704435694bdcaf243e41/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/misango/.gradle/caches/transforms-3/adf826741c98f838c23e388644a86324/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/misango/.gradle/caches/transforms-3/adf826741c98f838c23e388644a86324/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/misango/.gradle/caches/transforms-3/4f887f13800ba6a52d875be248795c8e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/misango/.gradle/caches/transforms-3/4f887f13800ba6a52d875be248795c8e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/misango/.gradle/caches/transforms-3/7aa7fc8d2fb3b1c28e45d4d6e5cc706a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/misango/.gradle/caches/transforms-3/7aa7fc8d2fb3b1c28e45d4d6e5cc706a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/misango/.gradle/caches/transforms-3/bf3f7b22a8cb750e8fc2e9954cd30361/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/misango/.gradle/caches/transforms-3/bf3f7b22a8cb750e8fc2e9954cd30361/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/misango/.gradle/caches/transforms-3/78dea024007e67209fbb4a46dc65fe4d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/misango/.gradle/caches/transforms-3/78dea024007e67209fbb4a46dc65fe4d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/misango/.gradle/caches/transforms-3/75660cfece5dd320c2bd83cc9c3f2a70/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/misango/.gradle/caches/transforms-3/75660cfece5dd320c2bd83cc9c3f2a70/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/misango/.gradle/caches/transforms-3/074233af334f9200f97c8b06d1c69cdd/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/misango/.gradle/caches/transforms-3/074233af334f9200f97c8b06d1c69cdd/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/misango/.gradle/caches/transforms-3/0f59aefaafca1cb83abcede6604c5d48/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/misango/.gradle/caches/transforms-3/0f59aefaafca1cb83abcede6604c5d48/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/misango/.gradle/caches/transforms-3/96cc2cad7fae7c5fe1dd95868c0bc363/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/misango/.gradle/caches/transforms-3/96cc2cad7fae7c5fe1dd95868c0bc363/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/misango/.gradle/caches/transforms-3/3de8db5fef5563620296c421a6eaeef9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/misango/.gradle/caches/transforms-3/3de8db5fef5563620296c421a6eaeef9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/misango/.gradle/caches/transforms-3/48adcd043377728a58b7f3e322e3bf0b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/misango/.gradle/caches/transforms-3/48adcd043377728a58b7f3e322e3bf0b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/misango/.gradle/caches/transforms-3/ffb2dbcea7dc9899f5100a8cbb372949/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/misango/.gradle/caches/transforms-3/ffb2dbcea7dc9899f5100a8cbb372949/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+		ADDED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/misango/code/Associate_AndroidDevOps/DiceRoller_Android_assignment/app/src/main/AndroidManifest.xml
